@@ -1,1 +1,3 @@
 Package.json: It is a configuration for npm.
+^ : updates only minor version
+~ : updates major version
