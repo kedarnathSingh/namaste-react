@@ -1,3 +1,8 @@
 Package.json: It is a configuration for npm.
 ^ : updates only minor version
 ~ : updates major version
+// npx parcel index.html
+to build the application through parcel.
+NPX - basically executes the Package
+NPM - basically install the package
+Remove "main": "app.js", from package.json
