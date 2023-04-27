@@ -6,3 +6,14 @@ to build the application through parcel.
 NPX - basically executes the Package
 NPM - basically install the package
 Remove "main": "app.js", from package.json
+JSX- when jsx code is in multiple line it must be inside small brackets().
+
+//VS Code EXtensions
+Prettier Formatter
+ESLint
+Better comments
+
+// Functional Component
+This is a normal javascript function. A function that return a piece of jsxcode.
+// Jsx helps to stop cross site scripting
+// For multiple parent we can use React fragment
